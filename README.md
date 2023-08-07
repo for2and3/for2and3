@@ -12,21 +12,22 @@ I have some works with **Frontend**, **Data Mining** and **Machine Learning**, p
 
 ## 📫 Contact Me on Social Media
 <img decoding="async" src="https://github.com/for2and3/for2and3/assets/38681706/6c510b67-3bf0-4d34-927a-1ea5e9940eaf" width="1.5%"> [BiliBili](https://space.bilibili.com/1487430)|  ✉️ [Email](hdusly524@gmail.com) | 💬 [Issue](https://github.com/for2and3)   
-Ask Me about anything!
+Ask me about anything!
 
 ## 💡 My Project
 
 - [**DrugRetrieval**](https://github.com/for2and3/DrugRetrievalProject): A DrugRetrieval Project Base on OCR(LSTM) + Text Retrieval.
-- [**75CDN**](https://cdn.baomitu.com): The best CDN for web related libraries to speed up your websites, mirror from @cdnjs.
-- [**声享**](https://ppt.baomitu.com): Create and share your presentations online.
+- [**AlarmAlgorithmBasedOnClustering**](https://github.com/for2and3/AlarmAlgorithmBasedOnClustering):The middleware for the OpenFalcon alarm system enables clustering and merging of alarm information based on root cause analysis.
+- [**For2朋友的chatgpt**](http://gpt.luckychat.cc/): The chatgpt mirror website which can be used in mainland China.
 
-<!--
+
 ## 📚 Tech Articles and Talks 
 
 You can find a list of my talks' presentation on 📖 **[ppt.baomitu.com](https://ppt.baomitu.com/u/lizheming)**. 
 
 And get all my post articles in my blog 📝 [**zh.eming.li**](https://imnerd.org). 
- 
+
+<!-- 
 ## 💻 Open Source Work Stats
 
 
