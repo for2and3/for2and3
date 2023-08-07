@@ -21,14 +21,14 @@ Ask me about anything!
 - [**For2朋友的chatgpt**](http://gpt.luckychat.cc/): The chatgpt mirror website which can be used in mainland China.
 - [**MinstDatasiteMethodsComparing**](https://github.com/for2and3/MinstDatasiteMethodsComparing/tree/main): Comparing the advantages and disadvantages of different data preprocessing methods and machine learning algorithms in an EMNIST handwritten digital image dataset.
 
-
+<!-- 
 ## 📚 Tech Articles and Talks 
 
 You can find a list of my talks' presentation on 📖 **[ppt.baomitu.com](https://ppt.baomitu.com/u/lizheming)**. 
 
 And get all my post articles in my blog 📝 [**zh.eming.li**](https://imnerd.org). 
 
-<!-- 
+
 ## 💻 Open Source Work Stats
 
 
