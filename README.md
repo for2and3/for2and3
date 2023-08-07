@@ -5,12 +5,12 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/static/v1?label=wechat&message=secretlzm007&color=7BB32E&logo=wechat) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/lizheming)
 
-Hi guys, I'm **Li Zheming**. I am a JavaScript developer from Beijing, China. I'm currently working on @75team as a Font-End engineer.  
-I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if you have same interesting or some questions!
+Hi guys, I'm **For2and3**. I am a student from China and currently University of Sydney in Australia!
+I have some works with **Frontend**, **Data Mining** and **Machine Learning**, please see my projects below,contact me if you have same interesting or some questions!
 
 ## 📫 Contact Me on Social Media
 
-[Facebook][-1] | [Sina Weibo][0] | [Zhihu][1] | [SegmentFault][2] | [V2EX][3] or just ✉️ [Email](mailto:i@imnerd.org) | 💬 [Issue](https://github.com/lizheming/lizheming/issues/me) Me about everything!
+[Bilibili][https://space.bilibili.com/1487430] |  ✉️ [Email](hdusly524@gmail.com) | 💬 [Issue](https://github.com/for2and3) Me about everything!
 
 ## 💡 Projects with My Work
 
