@@ -12,7 +12,7 @@ I have some works with **Frontend**, **Data Mining** and **Machine Learning**, p
 
 ## 📫 Contact Me on Social Media
 <img decoding="async" src="https://github.com/for2and3/for2and3/assets/38681706/6c510b67-3bf0-4d34-927a-1ea5e9940eaf" width="1.5%"> [BiliBili](https://space.bilibili.com/1487430)|  ✉️ [Email](hdusly524@gmail.com) | 💬 [Issue](https://github.com/for2and3)   
-Ask Me about everything!
+Ask Me about anything!
 
 ## 💡 Projects with My Work
 
