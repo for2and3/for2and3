@@ -9,7 +9,7 @@ Hi guys, I'm **For2and3**. I am a student from China and currently studying in U
 I have some works with **Frontend**, **Data Mining** and **Machine Learning**, please see my projects below,contact me if you have same interesting or some questions!
 
 ## 📫 Contact Me on Social Media
-![image](https://github.com/for2and3/for2and3/assets/38681706/67684699-9de4-4426-b53e-4d8dbc53c674)[Bilibili](https://space.bilibili.com/1487430) |  ✉️ [Email](hdusly524@gmail.com) | 💬 [Issue](https://github.com/for2and3) Me about everything!
+<img decoding="async" src="https://space.bilibili.com/1487430" width="50%"> |  ✉️ [Email](hdusly524@gmail.com) | 💬 [Issue](https://github.com/for2and3) Me about everything!
 
 ## 💡 Projects with My Work
 
