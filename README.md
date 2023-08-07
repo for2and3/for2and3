@@ -5,11 +5,12 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 
-Hi guys, I'm **For2and3**. I am a student from China and currently University of Sydney in Australia!
+Hi guys, I'm **For2and3**. I am a student from China and currently studying in University of Sydney in Australia!
 I have some works with **Frontend**, **Data Mining** and **Machine Learning**, please see my projects below,contact me if you have same interesting or some questions!
 
 ## 📫 Contact Me on Social Media
 
+![image](https://github.com/for2and3/for2and3/assets/38681706/de46a163-e6ff-4249-a562-755bf780fd7f)
 [Bilibili](https://space.bilibili.com/1487430) |  ✉️ [Email](hdusly524@gmail.com) | 💬 [Issue](https://github.com/for2and3) Me about everything!
 
 ## 💡 Projects with My Work
