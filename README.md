@@ -6,9 +6,9 @@
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 
 Hi guys, I'm **For2and3**.  
-Wish you have a nice one!   
 I am a student from China and currently studying in University of Sydney in Australia!
 I have some works with **Frontend**, **Data Mining** and **Machine Learning**, please see my projects below,contact me if you have same interesting or some questions!
+Wish you have a nice one!   
 
 ## 📫 Contact Me on Social Media
 <img decoding="async" src="https://github.com/for2and3/for2and3/assets/38681706/6c510b67-3bf0-4d34-927a-1ea5e9940eaf" width="1.5%"> [BiliBili](https://space.bilibili.com/1487430)|  ✉️ [Email](hdusly524@gmail.com) | 💬 [Issue](https://github.com/for2and3)   
@@ -19,6 +19,7 @@ Ask me about anything!
 - [**DrugRetrieval**](https://github.com/for2and3/DrugRetrievalProject): A DrugRetrieval Project Base on OCR(LSTM) + Text Retrieval.
 - [**AlarmAlgorithmBasedOnClustering**](https://github.com/for2and3/AlarmAlgorithmBasedOnClustering):The middleware for the OpenFalcon alarm system enables clustering and merging of alarm information based on root cause analysis.
 - [**For2朋友的chatgpt**](http://gpt.luckychat.cc/): The chatgpt mirror website which can be used in mainland China.
+- [**MinstDatasiteMethodsComparing**](https://github.com/for2and3/MinstDatasiteMethodsComparing/tree/main): Comparing the advantages and disadvantages of different data preprocessing methods and machine learning algorithms in an EMNIST handwritten digital image dataset.
 
 
 ## 📚 Tech Articles and Talks 
