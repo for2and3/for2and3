@@ -10,7 +10,7 @@ I have some works with **Frontend**, **Data Mining** and **Machine Learning**, p
 
 ## 📫 Contact Me on Social Media
 
-[Bilibili][https://space.bilibili.com/1487430] |  ✉️ [Email](hdusly524@gmail.com) | 💬 [Issue](https://github.com/for2and3) Me about everything!
+[Bilibili](https://space.bilibili.com/1487430) |  ✉️ [Email](hdusly524@gmail.com) | 💬 [Issue](https://github.com/for2and3) Me about everything!
 
 ## 💡 Projects with My Work
 
