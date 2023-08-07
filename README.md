@@ -5,7 +5,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 
-Hi guys, I'm **For2and3**. I am a student from China and currently studying in University of Sydney in Australia!
+Hi guys, I'm **For2and3**.Wish you have a nice one! I am a student from China and currently studying in University of Sydney in Australia!
 I have some works with **Frontend**, **Data Mining** and **Machine Learning**, please see my projects below,contact me if you have same interesting or some questions!
 
 ## 📫 Contact Me on Social Media
